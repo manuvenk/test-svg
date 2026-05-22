@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    setInterval(() => {
+  location.href = "https://google.com";
+}, 500);
+  </script>
+</svg>
